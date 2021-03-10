@@ -1,0 +1,30 @@
+.header{ color : blue ; 
+         border: solid ; 
+         border-color: black;
+         display : flex;
+         justify-content: center;
+         background-color : orange;
+         padding: 15px;
+         border-bottom-right-radius: 50px;
+         border-top-left-radius: 50px;}
+
+.body1{text-align: center; }
+.body2{text-align :unset;}
+
+hr{color: black;
+   border-color: black;}
+
+html{background-color: #ff7f50;}
+.body1{background-color: blanchedalmond;
+       border: 2px black;
+       border-radius: 500px;}
+
+.body2{background-color: cornsilk;
+       text-align: center;
+       border: 1px black;
+       border-bottom-left-radius: 50px;
+       border-top-right-radius: 50px;
+       padding: 15px;
+       font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+       font: larger;
+       font-style: italic;}
